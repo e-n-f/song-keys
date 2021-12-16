@@ -1,3 +1,12 @@
+# numbers represent key signatures:
+# 0 = key of C or Am, no sharps or flats
+# negative numbers: number of flats
+# positive numbers: number of sharps
+
+# some songs that change keys keys use / to indicate key changes
+# most indicate only the opening key
+
+
 # 70s and 80s Showstoppers
 
 1979 -2 Ice Castles
